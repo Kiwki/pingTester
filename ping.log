@@ -1,0 +1,31 @@
+Start : Thu Apr 30 17:08:53 2020
+Duration : 10 Interval : 5 
+
+ ------------------------------------------------------------------------- 
+ Thu Apr 30 17:08:53 2020
+
+Envoi d'une requˆte 'Ping'  172.16.16.208 avec 32 octets de donn‚esÿ:
+R‚ponse de 172.16.16.208ÿ: octets=32 temps<1ms TTL=127
+
+Statistiques Ping pour 172.16.16.208:
+    Paquetsÿ: envoy‚s = 1, re‡us = 1, perdus = 0 (perte 0%),
+Dur‚e approximative des boucles en millisecondes :
+    Minimum = 0ms, Maximum = 0ms, Moyenne = 0ms
+
+ ------------------------------------------------------------------------- 
+ Thu Apr 30 17:08:58 2020
+
+Envoi d'une requˆte 'Ping'  172.16.16.208 avec 32 octets de donn‚esÿ:
+R‚ponse de 172.16.16.208ÿ: octets=32 temps<1ms TTL=127
+
+Statistiques Ping pour 172.16.16.208:
+    Paquetsÿ: envoy‚s = 1, re‡us = 1, perdus = 0 (perte 0%),
+Dur‚e approximative des boucles en millisecondes :
+    Minimum = 0ms, Maximum = 0ms, Moyenne = 0ms
+
+ ------------------------------------------------------------------------- 
+End : Thu Apr 30 17:08:58 2020
+ 
+ ------------------------------------------------------------------------- 
+ ------------------------------------------------------------------------- 
+
