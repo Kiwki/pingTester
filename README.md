@@ -1,2 +1,2 @@
 # pingTester
-Test connection to a server with ping command
+Test connection to a server using ping command
